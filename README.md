@@ -23,5 +23,5 @@ Link :
 
 ## Technologies Used
 
-![image]()
+![image](Capture.JPG)
 # Credit_Card_Default_Prediction
