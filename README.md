@@ -16,9 +16,9 @@ Link to the application :
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card holders
 from Taiwan from April 2005 to September 2005.
 
-Link : 
+ Watch the Demo here
 ******************************
-## Watch the Demo here
+
 
 
 ## Technologies Used
